@@ -1,4 +1,5 @@
-# javascript-reactjs-react-native-post-linkedin
+# HTML , CSS , Javascript , React JS ,React Native Tip & Tricks
+
 Linkedin paylaştığım React Native , Javascript , React Js postlarımı sizlerle paylaşıyorum.
 
 ## 🎯 HTML Tip
