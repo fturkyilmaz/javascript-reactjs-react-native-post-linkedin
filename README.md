@@ -1,6 +1,6 @@
 # HTML , CSS , Javascript , React JS ,React Native Tip & Tricks
 
-Linkedin paylaştığım React Native , Javascript , React Js postlarımı sizlerle paylaşıyorum.
+Furkan Türkyılmaz Linkedin hesabında paylaştığım Javascript , React Native , React Js , HTML , CSS postlarımı sizlerle paylaşıyorum.
 
 ## 🎯 HTML Tip
 
@@ -19,6 +19,16 @@ Linkedin paylaştığım React Native , Javascript , React Js postlarımı sizle
 | Parametre | Tip     | Açıklama                |
 | :-------- | :------- | :------------------------- |
 | [Link](https://www.linkedin.com/feed/update/urn:li:activity:6868868998092652544/) | `Vs Code` | **VS Code'da native olarak sunduğu parantez renklendirme yapısı çok daha hızlı onu kullanmanızı öneririm.**. |
+
+#vscode #javascript #reactnative #reactjs #react #100DaysOfCode #github #microsoft #furkantürkyılmaz
+
+## 🎯 Visual Studio Code Tip
+
+◆ Visual Studio Code ile tamamen tarayıcınızda kodlamaya başlayın. Herhangi bir yerde, herhangi bir zamanda, herhangi bir cihazda ve tablette, kurulum gerektirmeden artık kullanabiliyorsunuz.👌🏻
+
+| Parametre | Tip     | Açıklama                |
+| :-------- | :------- | :------------------------- |
+| [Link](https://www.linkedin.com/feed/update/urn:li:activity:6857235286687059968/) | `Vs Code` | **Visual Studio Code ile tamamen tarayıcınızda kodlamaya başlayın. Herhangi bir yerde, herhangi bir zamanda, herhangi bir cihazda ve tablette, kurulum gerektirmeden artık kullanabiliyorsunuz..**. |
 
 #vscode #javascript #reactnative #reactjs #react #100DaysOfCode #github #microsoft #furkantürkyılmaz
 
