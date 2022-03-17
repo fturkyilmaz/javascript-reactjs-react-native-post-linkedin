@@ -19,6 +19,12 @@
 | :-------- | :------- | :------------------------- |
 | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6763043850916290560/) | `Javascript` | **Javascript aynı değişken için birden fazla koşulu kontrol ederken "array.includes ()" kullanın.**. |
 
+◆ Javascript array değişkenleri için "console.table()" kullanın. 
+
+| Parametre | Tip     | Açıklama                |
+| :-------- | :------- | :------------------------- |
+| [LinkedIn](https://www.linkedin.com/posts/furkanturkyilmaz_coding-codenewbie-ios-activity-6760125419564933120-SL1Y?utm_source=linkedin_share&utm_medium=member_desktop_web) | `Javascript` | **Javascript array değişkenleri için "console.table()" kullanın.**. |
+
 
 ## 🎯 Visual Studio Code Tip
 
