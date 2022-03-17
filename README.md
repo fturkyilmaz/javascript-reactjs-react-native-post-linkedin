@@ -1,6 +1,6 @@
 # HTML , CSS , Javascript , React JS ,React Native Tip & Tricks
 
-Furkan Türkyılmaz Linkedin hesabında paylaştığım Javascript , React Native , React Js , HTML , CSS postlarımı sizlerle paylaşıyorum.
+[Furkan Türkyılmaz LinkedIn](https://www.linkedin.com/in/furkanturkyilmaz/) hesabında paylaştığım Javascript , React Native , React Js , HTML , CSS postlarımı sizlerle paylaşıyorum.
 
 ## 🎯 HTML Tip
 
