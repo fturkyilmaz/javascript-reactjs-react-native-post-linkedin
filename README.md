@@ -12,6 +12,16 @@ Linkedin paylaştığım React Native , Javascript , React Js postlarımı sizle
 
 #html #css #javascript #reactjs #furkantürkyılmaz
 
+## 🎯 Visual Studio Code Tip
+
+◆ VSCode Bracket Pair Colorizer uzantısının büyük bir hayranıyım, ancak görünüşe göre Popüler Bracket Pair Colorizer uzantısına göre VS Code'da native olarak sunduğu parantez renklendirme yapısı çok daha hızlı 👌🏻
+
+| Parametre | Tip     | Açıklama                |
+| :-------- | :------- | :------------------------- |
+| [Link](https://www.linkedin.com/feed/update/urn:li:activity:6868868998092652544/) | `Vs Code` | **VS Code'da native olarak sunduğu parantez renklendirme yapısı çok daha hızlı onu kullanmanızı öneririm.**. |
+
+#vscode #javascript #reactnative #reactjs #react #100DaysOfCode #github #microsoft #furkantürkyılmaz
+
   
 
   
