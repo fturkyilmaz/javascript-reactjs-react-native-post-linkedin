@@ -10,6 +10,14 @@
 | :-------- | :------- | :------------------------- |
 | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6893438244155990016/) | `HTML` | **Web sayfasının başka bir dile çevrilmesi durumunda markanızın adı bozulmadan kalmasını bunu kullanın.**. |
 
+## 🔮 React Javascript Tip
+
+◆ React Router Dom v6 useParams() hook kullanımını sizlerle paylaşıyorum.
+
+| Parametre | Tip     | Açıklama                |
+| :-------- | :------- | :------------------------- |
+| [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6910099710393421825/) | `React JS` | **React Router Dom v6 useParams() hook kullanımını sizlerle paylaşıyorum.**. |
+
 
 ## 🎯 Javascript Tip
 
