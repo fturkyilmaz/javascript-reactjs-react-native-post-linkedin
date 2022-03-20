@@ -10,7 +10,7 @@
 | :-------- | :------- | :------------------------- |
 | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6893438244155990016/) | `HTML` | **Web sayfasının başka bir dile çevrilmesi durumunda markanızın adı bozulmadan kalmasını bunu kullanın.**. |
 
-## 🔮 React Javascript Tip
+## 🔮 React Js Tip
 
 ◆ React Router Dom v6 useParams() hook kullanımını sizlerle paylaşıyorum.
 
@@ -19,7 +19,7 @@
 | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6910099710393421825/) | `React JS` | **React Router Dom v6 useParams() hook kullanımını sizlerle paylaşıyorum.**. |
 
 
-## 🎯 Javascript Tip
+## 📍 Javascript Tip
 
 ◆ Javascript aynı değişken için birden fazla koşulu kontrol ederken "array.includes ()" kullanın. 
 
@@ -34,7 +34,7 @@
 | [LinkedIn](https://www.linkedin.com/posts/furkanturkyilmaz_coding-codenewbie-ios-activity-6760125419564933120-SL1Y?utm_source=linkedin_share&utm_medium=member_desktop_web) | `Javascript` | **Javascript array değişkenleri için "console.table()" kullanın.**. |
 
 
-## 🎯 Visual Studio Code Tip
+## 🔥 Visual Studio Code Tip
 
 ◆ Visual Studio Code ile tamamen tarayıcınızda kodlamaya başlayın. Herhangi bir yerde, herhangi bir zamanda, herhangi bir cihazda ve tablette, kurulum gerektirmeden artık kullanabiliyorsunuz.👌🏻
 
@@ -49,6 +49,16 @@
 | Parametre | Tip     | Açıklama                |
 | :-------- | :------- | :------------------------- |
 | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6868868998092652544/) | `Vs Code` | **VS Code'da native olarak sunduğu parantez renklendirme yapısı çok daha hızlı onu kullanmanızı öneririm.**. |
+
+
+## ⛓ Blockchain & Web 3.0 Tip
+
+◆ NFT nedir ?NFT’nin ne olduğunu bu kadar realist bir şekilde anlatan görmemiştim.
+
+| Parametre | Tip     | Açıklama                |
+| :-------- | :------- | :------------------------- |
+| [LinkedIn](https://www.linkedin.com/posts/furkanturkyilmaz_blockchain-nft-future-activity-6908661736975536128-f3Tn?utm_source=linkedin_share&utm_medium=member_desktop_web) | `NFT` | **NFT nedir ?NFT’nin ne olduğunu bu kadar realist bir şekilde anlatan görmemiştim.**.|
+
 
 #html #css #vscode #javascript #reactnative #reactjs #react #100DaysOfCode #github #microsoft #furkantürkyılmaz
 
