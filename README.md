@@ -42,13 +42,19 @@
 | :-------- | :------- | :------------------------- |
 | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6857235286687059968/) | `Vs Code` | **Visual Studio Code ile tamamen tarayıcınızda kodlamaya başlayın. Herhangi bir yerde, herhangi bir zamanda, herhangi bir cihazda ve tablette, kurulum gerektirmeden artık kullanabiliyorsunuz..**. |
 
-
-
 ◆ VSCode Bracket Pair Colorizer uzantısının büyük bir hayranıyım, ancak görünüşe göre Popüler Bracket Pair Colorizer uzantısına göre VS Code'da native olarak sunduğu parantez renklendirme yapısı çok daha hızlı 👌🏻
 
 | Parametre | Tip     | Açıklama                |
 | :-------- | :------- | :------------------------- |
 | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6868868998092652544/) | `Vs Code` | **VS Code'da native olarak sunduğu parantez renklendirme yapısı çok daha hızlı onu kullanmanızı öneririm.**. |
+
+◆ VSCode Bracket Pair Colorizer uzantısının büyük bir hayranıyım, ancak görünüşe göre Popüler Bracket Pair Colorizer uzantısına göre VS Code'da native olarak sunduğu parantez renklendirme yapısı çok daha hızlı 👌🏻
+
+| Parametre | Tip     | Açıklama                |
+| :-------- | :------- | :------------------------- |
+| [LinkedIn](https://www.linkedin.com/posts/furkanturkyilmaz_network-vscode-coding-activity-6911568532329705472-0Wqr?utm_source=linkedin_share&utm_medium=member_desktop_web) | `Vs Code` | **Visual Studio Code en sevdiğim kısayollardan biri, doğrudan kullanıcı arayüzünden yeni bir dosya için gereken dizin yapısını oluşturmanın kısayolunu sizlerle paylaşıyorum**. |
+
+
 
 
 ## ⛓ Blockchain & Web 3.0 Tip
